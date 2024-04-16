@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently work on Webcoder-IT institute
+I’m currently working on Webcoder-IT institute
 
 
 ## 🌐 Socials:
