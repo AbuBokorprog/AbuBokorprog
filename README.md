@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m currently working on Webcoder-IT institute
+👋 Hi, I'm Md Abu Bokor!
+🌟  A passionate Full Stack Developer crafting seamless web experiences from frontend to backend. 
+💻 Currently working at Webcoder IT Institute as a frontend developer, exploring cutting-edge web technologies.
+💡 I aim to bridge creativity and functionality in every project I build.
+📚 Continuously learning and growing to bring the best to the digital world.
 
 
 ## 🌐 Socials:
