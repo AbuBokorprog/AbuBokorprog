@@ -20,7 +20,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbuBokorprog&theme=dark&hide_border=false&border_color=purple&border_radius=5)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuBokorprog&theme=dark&hide_border=false&border_color=purple&include_all_commits=false&count_private=true&layout=compact&border_radius=5)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Md-Abu-Bokor?theme=dark&font=baloo&extension=activity)
+# 📊 Leetcode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/Md-Abu-Bokor?theme=dark&font=Akaya%20Telivigala&ext=activity)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbuBokorprog&theme=discord&no-frame=false&no-bg=false&margin-w=4)
