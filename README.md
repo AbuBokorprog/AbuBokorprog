@@ -18,17 +18,17 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AbuBokorprog&theme=dark&hide_border=false&border_color=purple&include_all_commits=false&count_private=true&border_radius=5)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbuBokorprog&theme=dark&hide_border=false&border_color=purple&border_radius=5)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbuBokorprog&theme=dark&hide_border=false&border_color=purple&border_radius=5)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuBokorprog&theme=dark&hide_border=false&border_color=purple&include_all_commits=false&count_private=true&layout=compact&border_radius=5)
 
 # 📊 Leetcode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/Md-Abu-Bokor?theme=dark&font=Akaya%20Telivigala&ext=activity)
+![](https://leetcard.jacoblin.cool/Md-Abu-Bokor?theme=dark&font=ABeeZee&ext=activity)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbuBokorprog&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-![LeetCode Stats](https://leetcode.card.workers.dev/Md-Abu-Bokor?theme=dark&font=baloo&extension=activity)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbuBokorprog&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
