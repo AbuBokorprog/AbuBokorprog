@@ -18,7 +18,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AbuBokorprog&theme=dark&hide_border=false&border_color=purple&include_all_commits=false&count_private=true&border_radius=5)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbuBokorprog&theme=dark&hide_border=false&border_color=purple&border_radius=5)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbuBokorprog&theme=dark&hide_border=false&border_color=purple&border_radius=5)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuBokorprog&theme=dark&hide_border=false&border_color=purple&include_all_commits=false&count_private=true&layout=compact&border_radius=5)
 
 # 📊 Leetcode Stats:
